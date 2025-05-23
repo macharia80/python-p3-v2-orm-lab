@@ -1,4 +1,4 @@
-from __init__ import CONN, CURSOR
+from lib.database import CURSOR, CONN
 from department import Department
 import pytest
 

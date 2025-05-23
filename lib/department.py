@@ -1,5 +1,5 @@
 # lib/department.py
-from __init__ import CURSOR, CONN
+from lib.database import CURSOR, CONN
 
 
 class Department:
